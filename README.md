@@ -15,7 +15,7 @@
   <td style="text-align:center;" width="170">"Mario is wearing his signature red hat with a ‘M’ on it, blue overalls, white gloves, and brown shoes, with arms open."</td>
   
   <tr>
-  <td><img src=assets/output1.gif width="170"></td>
+  <td><img src=assets/output.gif width="170"></td>
   <td><img src=assets/output2.gif width="170"></td>
   <td><img src=assets/output3.gif width="170"></td>
   <td><img src=assets/output4.gif width="170"></td>
