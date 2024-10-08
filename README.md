@@ -6,6 +6,7 @@
 </div>
 
 ## ⏳ TODO
+- [ ] Show more results
 - [ ] Release pretrained text-to-3D generation models and inference code
 - [ ] Release training code
 - [ ] ......
