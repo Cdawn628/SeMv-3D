@@ -8,8 +8,9 @@
 ## Results
 <table class="center">
   <!-- <td style="text-align:center;" width="50">Input Text</td> -->
-  <td style="text-align:center;" width="170">"A tree with a green, textured canopy and a brown trunk."</td>
   <td style="text-align:center;" width="170">"A red apple with a shiny surface has a stem on top."</td>
+  <td style="text-align:center;" width="170">"A carton tree with a green, textured canopy and a brown trunk."</td>
+  
   
   <td style="text-align:center;" width="170">"A red and white sneaker with black laces and black heel."</td>
   <td style="text-align:center;" width="170">"A blue and black car with a sleek and futuristic design."</td>
@@ -17,8 +18,9 @@
   
   
   <tr>
-  <td><img src=assets/output1.gif width="170"></td>
   <td><img src=assets/output2.gif width="170"></td>
+  <td><img src=assets/output1.gif width="170"></td>
+  
   
   <td><img src=assets/output6.gif width="170"></td>
   <td><img src=assets/output4.gif width="170"></td>
