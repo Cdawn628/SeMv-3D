@@ -9,7 +9,7 @@
 <table class="center">
   <!-- <td style="text-align:center;" width="50">Input Text</td> -->
   <td style="text-align:center;" width="50">Method</td> 
-  <td style="text-align:center;" width="170">Input Text</td>
+<!--   <td style="text-align:center;" width="170">Input Text</td> -->
   <td style="text-align:center;" width="170">"A red apple with a shiny surface has a stem on top."</td>
   <td style="text-align:center;" width="170">"A carton tree with a green, textured canopy and a brown trunk."</td>
   
