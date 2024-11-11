@@ -20,14 +20,26 @@
   
   
   <tr>
-  <td style="text-align:center;" width="50">SeMv-3D</td>
-  <td><img src=assets/output2.gif width="170"></td>
-  <td><img src=assets/output1.gif width="170"></td>
+  <td style="text-align:center;" width="50">Shap-E</td>
+  <td><img src=assets/shape/apple.gif width="170"></td>
+  <td><img src=assets/shape/tree.gif width="170"></td>
   
   
-  <td><img src=assets/output6.gif width="170"></td>
-  <td><img src=assets/output4.gif width="170"></td>
-  <td><img src=assets/output5.gif width="170"></td>
+  <td><img src=assets/shape/shoe.gif width="170"></td>
+  <td><img src=assets/shape/car.gif width="170"></td>
+  <td><img src=assets/shape/mario.gif width="170"></td>
+  
+  </tr>
+
+  <tr>
+  <td style="text-align:center;" width="50">VolumeDiffusion</td>
+  <td><img src=assets/volume/apple.gif width="170"></td>
+  <td><img src=assets/volume/tree.gif width="170"></td>
+  
+  
+  <td><img src=assets/volume/shoe.gif width="170"></td>
+  <td><img src=assets/volume/car.gif width="170"></td>
+  <td><img src=assets/volume/mario.gif width="170"></td>
   
   </tr>
 
@@ -37,9 +49,21 @@
   <td><img src=assets/topia/tree.gif width="170"></td>
   
   
-  <td><img src=assets/topia/car.gif width="170"></td>
   <td><img src=assets/topia/shoe.gif width="170"></td>
+  <td><img src=assets/topia/car.gif width="170"></td>
   <td><img src=assets/topia/mario.gif width="170"></td>
+  
+  </tr>
+
+  <tr>
+  <td style="text-align:center;" width="50">SeMv-3D</td>
+  <td><img src=assets/output2.gif width="170"></td>
+  <td><img src=assets/output1.gif width="170"></td>
+  
+  
+  <td><img src=assets/output6.gif width="170"></td>
+  <td><img src=assets/output4.gif width="170"></td>
+  <td><img src=assets/output5.gif width="170"></td>
   
   </tr>
 </table >
