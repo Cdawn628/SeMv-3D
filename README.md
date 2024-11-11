@@ -32,14 +32,14 @@
   </tr>
 
   <tr>
-  <td style="text-align:center;" width="50">volumediffusion</td>
-  <td><img src=assets/output2.gif width="170"></td>
-  <td><img src=assets/output1.gif width="170"></td>
+  <td style="text-align:center;" width="50">3DTopia</td>
+  <td><img src=assets/topia/apple.gif width="170"></td>
+  <td><img src=assets/topia/tree.gif width="170"></td>
   
   
-  <td><img src=assets/output6.gif width="170"></td>
-  <td><img src=assets/output4.gif width="170"></td>
-  <td><img src=assets/output5.gif width="170"></td>
+  <td><img src=assets/topia/car.gif width="170"></td>
+  <td><img src=assets/topia/shoe.gif width="170"></td>
+  <td><img src=assets/topia/mario.gif width="170"></td>
   
   </tr>
 </table >
